@@ -1,0 +1,7 @@
+repositories:
+  my_exec:
+    type: git
+    url: https://github.com/dustingooding/catkin_examples_my_exec.git
+  my_library:
+    type: git
+    url: https://github.com/dustingooding/catkin_examples_my_library.git
