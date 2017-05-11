@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>simple_package_cpp</name>
+  <version>1.0.0</version>
+  <description>The simple_package_cpp package</description>
+  <maintainer email="dustingooding@gmail.com">Dustin Gooding</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
